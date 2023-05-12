@@ -1,1 +1,3 @@
-console.log('HOLA MUNDO!');
+const saludo = () => {
+    alert('HOLA!!');
+}

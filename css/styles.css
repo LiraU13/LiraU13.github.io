@@ -4,8 +4,8 @@ body {
 }
 
 button {
-    height: 70px;
-    ackground: green;
+    padding: 15px 25px;
+    background: blue;
     border-radius: 20px;
     border-color: rgba(128, 128, 128, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;

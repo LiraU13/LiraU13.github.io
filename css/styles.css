@@ -1,3 +1,16 @@
 body {
-    background: green;
+    background: rgb(44, 64, 245);
+    color: rgb(255, 255, 255);
+}
+
+button {
+    height: 70px;
+    ackground: green;
+    border-radius: 20px;
+    border-color: rgba(128, 128, 128, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
